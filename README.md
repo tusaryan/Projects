@@ -74,7 +74,7 @@ Here's a breakdown of technologies and concepts I work with:
 
 ## 🚀 Featured Projects Portfolio
 
-Here are some of the key projects I've worked on, prioritized based on complexity and skills demonstrated. For more detail visit the individual links.
+Here are some of the key projects I've worked on, prioritized based on complexity and skills demonstrated. For more details visit individual links.
 
 *(Note: BE: Backend, FE: Frontend)*
 
